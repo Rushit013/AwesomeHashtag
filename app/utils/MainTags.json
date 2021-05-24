@@ -1,0 +1,94 @@
+{
+    "DashboardTags": [
+        {
+            "id": 1,
+            "main_cat": "popular",
+            "image": "https://i.ibb.co/sHSJbGy/popular.png"
+        },
+        {
+            "id": 2,
+            "main_cat": "nature",
+            "image": "https://i.ibb.co/PTJWV2v/nature.png"
+        },
+        {
+            "id": 3,
+            "main_cat": "weather/seasons",
+            "image": "https://i.ibb.co/tJ2d5rn/weather.png"
+        },
+        {
+            "id": 4,
+            "main_cat": "animals",
+            "image": "https://i.ibb.co/M7n2m60/animals.png"
+        },
+        {
+            "id": 5,
+            "main_cat": "social/people",
+            "image": "https://i.ibb.co/FByDqKB/social.png"
+        },
+        {
+            "id": 6,
+            "main_cat": "holidays/celebration",
+            "image": "https://i.ibb.co/ZgkbhPD/celebration.png"
+        },
+        {
+            "id": 7,
+            "main_cat": "family",
+            "image": "https://i.ibb.co/8BYGtny/family.png"
+        },
+        {
+            "id": 8,
+            "main_cat": "art/photography",
+            "image": "https://i.ibb.co/2vpQQXM/art.png"
+        },
+        {
+            "id": 9,
+            "main_cat": "urban",
+            "image": "https://i.ibb.co/kHWkrKW/urban.png"
+        },
+        {
+            "id": 10,
+            "main_cat": "food",
+            "image": "https://i.ibb.co/JHx329P/food.png"
+        },
+        {
+            "id": 11,
+            "main_cat": "fashion",
+            "image": "https://i.ibb.co/M6VZtCV/fashion.png"
+        },
+        {
+            "id": 12,
+            "main_cat": "celebrities",
+            "image": "https://i.ibb.co/23tdN7h/celebrities.png"
+        },
+        {
+            "id": 13,
+            "main_cat": "entertainment",
+            "image": "https://i.ibb.co/5kTkvGj/entertainment.png"
+        },
+        {
+            "id": 14,
+            "main_cat": "follow/shoutout/like/comment",
+            "image": "https://i.ibb.co/vDt6xy4/like.png"
+        },
+        {
+            "id": 15,
+            "main_cat": "travel/avtive/sports",
+            "image": "https://i.ibb.co/hKNDRZ3/travel.png"
+        },
+        {
+            "id": 16,
+            "main_cat": "electronice",
+            "image": "https://i.ibb.co/YDCJ21S/electronice.png"
+        },
+        {
+            "id": 17,
+            "main_cat": "text art",
+            "image": "https://i.ibb.co/C7MFqM5/textart.png"
+        },
+        {
+            "id": 18,
+            "main_cat": "other",
+            "image": "https://i.ibb.co/RzpDFhj/other.png"
+        }
+    ]
+}
